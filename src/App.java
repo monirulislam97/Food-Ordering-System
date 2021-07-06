@@ -31,7 +31,6 @@ public class App{
                 case 2:
                     Food food = new Food();
                     boolean exit = true;
-
                     System.out.println("\nPlease Enter Your Details");
                     System.out.print("Please insert your Name: ");
                     String name = input.next();
