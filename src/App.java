@@ -9,7 +9,6 @@ public class App{
         boolean loop = true;
 
         Scanner input = new Scanner(System.in);
-        System.out.print("\033[H\033[2J");
         while(loop != false){
             System.out.print("**************************************************\n"+
                          "|         WELCOME TO FOOD ORDERING SYSTEM        |\n"+
